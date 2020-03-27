@@ -2,4 +2,4 @@
 Chart.jsの勉強用
 
 # URL
-https://chartjs_study.com/megafriday/index.html
+https://megafriday.github.io/chartjs_study/
