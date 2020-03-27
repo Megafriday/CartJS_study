@@ -1,0 +1,8 @@
+canvas {
+	border: 1px solid black;
+}
+
+.graph {
+	width: 400px;
+	height: 400px;
+}
